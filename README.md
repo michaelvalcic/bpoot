@@ -1,2 +1,2 @@
 # bpoot
-Bootstrap Proportion
+Bootstrap proportion function to generate n bootstraps.
