@@ -15,5 +15,5 @@ Provides a data frame of a sample value's bootstrapped proportion.
 }
 \examples{
 colors<-c("blue","blue","red","red","green","green")
-pboot(colors,"blue",100)
+pboot(x=colors,lev="blue",n=100)
 }
