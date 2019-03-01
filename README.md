@@ -1,2 +1,2 @@
 # bpoot
-Bootstrap proportion function to generate n bootstraps.
+Bootstrap proportion function to generate n bootstraps in R.
